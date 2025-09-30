@@ -1,0 +1,23 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 4c8de476-bb36-d5eb-ba9c-5f4c71f70201
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4095d203-abf5-dad4-a7fc-85396459d84b
+  name: Kursplan
+  pageRef: /pages/kursplan
+  weight: 20
+- identifier: 8f935e55-bfb6-2b93-cb4b-250343184c1c
+  name: Materialien, Texte und Notizen
+  pageRef: /pages/materialien-texte-und-notizen
+  weight: 30
+- identifier: a5220f7a-d962-f3d9-def2-591a2767d8b9
+  name: Zuordnungen und Hausaufgaben
+  pageRef: /pages/zuordnungen-und-hausaufgaben
+  weight: 40
+- identifier: c593ec30-4587-9100-44af-c7ab943b7da5
+  name: Resourcen
+  pageRef: /pages/resourcen
+  weight: 50
