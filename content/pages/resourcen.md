@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides links to related resources for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Resourcen
@@ -12,22 +10,22 @@ uid: c593ec30-4587-9100-44af-c7ab943b7da5
 Resourcen im Internet
 ---------------------
 
-[Nachrichten](http://web.mit.edu/21f.401/www/Nachrichten.html)
+{{% resource_link "215ee899-9a84-4f5d-a42c-42b9055e5c58" "Nachrichten" %}}
 
-[Radio und Fernsehen](http://www.dw.de/)
+{{% resource_link "8e9e6599-616b-4514-a474-f59b68e2dab4" "Radio und Fernsehen" %}}
 
-[Podcasts](http://web.mit.edu/course/21/21f.405/www/Podcasts.html)
+{{% resource_link "d886c4d1-a9e6-43e0-9ad8-6fd7327ba4b7" "Podcasts" %}}
 
-[Deutsches TV - ZDF Mediathek](http://www.zdf.de/)
+{{% resource_link "32dd0a9e-6fdf-4f24-8171-35c786d3045c" "Deutsches TV - ZDF Mediathek" %}}
 
-[Deutsches TV - ARD Mediathek](http://www.ardmediathek.de/tv)
+{{% resource_link "b916dadb-b4ee-4449-bb2b-73a2af70ccfe" "Deutsches TV - ARD Mediathek" %}}
 
-[Deutsches TV - RTL Mediathek](http://rtl-now.rtl.de/)
+{{% resource_link "10a148d2-23b2-47d9-b3e0-60ac6c2640eb" "Deutsches TV - RTL Mediathek" %}}
 
-[Zeitungen und Zeitschriften](http://web.mit.edu/21f.401/www/Zeitungen.html)
+{{% resource_link "e93dc751-cd0d-4a30-9a84-f0fe71cb8fd8" "Zeitungen und Zeitschriften" %}}
 
-[Deutch an MIT](http://quizlet.com/group/39806/)
+{{% resource_link "8cf17abc-a74c-4ba8-b2e3-01c2af055899" "Deutch an MIT" %}}
 
-[Deutsch lernen im Internet](http://web.archive.org/web/20160201221116/http://www.germanprofessor.org/)
+{{% resource_link "b062865d-78a9-452b-acd1-7f035f7575cc" "Deutsch lernen im Internet" %}}
 
-[Oxford Language Dictionaries](https://www.oxforddictionaries.com/)
+{{% resource_link "80d31ce1-b3b6-48c9-aca0-94fc31fba1a9" "Oxford Language Dictionaries" %}}

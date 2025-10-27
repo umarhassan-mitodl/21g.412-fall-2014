@@ -5,8 +5,6 @@ description: This resource contains the information regarding antiquierte vokabe
 file: /courses/21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014/206051a7c768d6dfc6f8490c79eba25d_MIT21G_412F14_Wk2-3_Scu.pdf
 file_size: 97131
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

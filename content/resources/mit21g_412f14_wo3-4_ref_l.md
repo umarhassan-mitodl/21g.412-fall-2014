@@ -4,8 +4,6 @@ description: This resource contains the information regarding aufteilung referat
 file: /courses/21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014/aa3bdb8cdd6987a98af8586899bacdb2_MIT21G_412F14_Wo3-4_Ref_L.pdf
 file_size: 330561
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

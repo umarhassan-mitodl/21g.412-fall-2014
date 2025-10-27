@@ -5,8 +5,6 @@ description: "This resource contains the information regarding definition: sitte
 file: /courses/21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014/3c7682c05f51c6e27608842acace1b3f_MIT21G_412F14_Wo3-4_Def.pdf
 file_size: 223345
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

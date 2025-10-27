@@ -4,8 +4,6 @@ description: "This resource contains the information regarding formular f\xFCr l
 file: /courses/21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014/160bc7a215e3f05b6e7922eb1408b2fe_MIT21G_412F14_Wk1_neu_Les.pdf
 file_size: 87716
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

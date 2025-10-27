@@ -4,8 +4,6 @@ description: This resource contains the information regarding literarische termi
 file: /courses/21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014/24914f70b947729c172433d9e034d7a9_MIT21G_412F14_Wo3-4_lit.pdf
 file_size: 804107
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

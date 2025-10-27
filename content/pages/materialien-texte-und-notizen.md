@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on course topics, texts, films, and
   other materials.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Materialien, Texte und Notizen
@@ -22,7 +20,7 @@ Dürrenmatt, Friedrich. _Die Physiker_. Archer House, 1962.
 
 Arjouni, Jakob. _Happy Birthday, Türke!_ Diogenes Verlag AG, 2008. ISBN: 9783257237023.
 
-Film: [_Das Parfum: Die Geschichte eines Mörders_](http://www.imdb.com/title/tt0396171/). Directed by Tom Tykwer. Color, 147 min. 2006.
+Film: {{% resource_link "aa4fa497-236b-4757-8fb4-a99facd40ccf" "_Das Parfum: Die Geschichte eines Mörders_" %}}. Directed by Tom Tykwer. Color, 147 min. 2006.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -196,7 +194,7 @@ Judenbuche lesen bis Ende
 
 {{% resource_link 3c7682c0-5f51-c6e2-7608-842acace1b3f "Definition: Sittengemälde (PDF)" %}}
 
-[Informationen zu Westfalen](http://www.lwl.org/westfaelische-geschichte/portal/Internet/dokumentation/orte_territorien/territorien/haupt.php?urlNeu=)
+{{% resource_link "16e2737a-98ce-4a2d-8f61-565edc564fd0" "Informationen zu Westfalen" %}}
 
 {{% resource_link 24914f70-b947-729c-1724-33d9e034d7a9 "Literarische Termini (PDF)" %}}
 
@@ -338,13 +336,13 @@ _Dreigroschenoper_ bis S. 70 lesen
 
 {{% resource_link 2edcbbf8-4291-caf9-4d57-8cf121692629 "Wortfeld \"Recht und Gesetz\" Teil 3 (PDF)" %}}
 
-Jerry Landon. "[Mack The Knife - Robbie Williams Live at The Royal Albert](http://www.youtube.com/watch?v=XpkCazstUhM&feature=fvw)." October 8, 2008. YouTube.
+Jerry Landon. "{{% resource_link "20bd0f9e-ebba-412d-90d4-cebc11515bf7" "Mack The Knife - Robbie Williams Live at The Royal Albert" %}}." October 8, 2008. YouTube.
 
-Gerald Wiley. "[Frank Sinatra Mack The Knife - Live 1985](https://www.youtube.com/watch?v=IW0RgtRLd1k)." November 12, 2012. YouTube.
+Gerald Wiley. "{{% resource_link "7dd3cf32-ac0e-4598-a399-b5414240d6d9" "Frank Sinatra Mack The Knife - Live 1985" %}}." November 12, 2012. YouTube.
 
-dorcm1973. "[The Muppet Show: Dr Teeth & Sam The Eagle - "Mack The Knife"](http://www.youtube.com/watch?v=MpSGtT_s7XA)." April 2, 2009. YouTube.
+dorcm1973. "{{% resource_link "197a4537-cb3c-4b3f-b98d-30995f1281d3" "The Muppet Show: Dr Teeth & Sam The Eagle - \"Mack The Knife\"" %}}." April 2, 2009. YouTube.
 
-Lotte Lenya singt (circa 1920s): abfabinri. "[Mackie Messer Lied](https://www.youtube.com/watch?v=mpMh5auMaVQ&feature=related)." July 4, 2008. YouTube.
+Lotte Lenya singt (circa 1920s): abfabinri. "{{% resource_link "89e21491-a08d-45f3-86b9-ee613e954422" "Mackie Messer Lied" %}}." July 4, 2008. YouTube.
 
 {{% resource_link 8e6f8139-2397-af9a-d9c3-fac42cdf6fec "Formelle Aussagen zu einem Drama (PDF)" %}}
 
@@ -356,7 +354,7 @@ Lotte Lenya singt (circa 1920s): abfabinri. "[Mackie Messer Lied](https://www.yo
 
 {{% resource_link 13d74f97-018d-0be6-4d56-c9019b718e54 "Zusammenfassung: Das Epische Theater (PDF)" %}}
 
-"Eifersuchtsszene" aus der Dreigroschenoper Beispiel einer 'moderneren' Version. Open-Air-Spektakel von Theaterhaus Jena und JenaKultur zur Eröffnung der Kulturarena Jena 2006. \[Watch on [YouTube](https://www.youtube.com/watch?v=yPAtV-zRXUI).\]
+"Eifersuchtsszene" aus der Dreigroschenoper Beispiel einer 'moderneren' Version. Open-Air-Spektakel von Theaterhaus Jena und JenaKultur zur Eröffnung der Kulturarena Jena 2006. \[Watch on {{% resource_link "55b08312-ff98-44dc-b85c-fe70c8a106fe" "YouTube" %}}.\]
 
 {{% resource_link d3dcae6f-3db3-a0c8-de05-f4840b5baf6c "Charakteranalyse (PDF)" %}}
 
@@ -475,7 +473,7 @@ _Physiker_ bis Ende lesen
 
 {{% resource_link 7301edd2-61e8-3ea4-3590-154936f5e705 "Über eine Theateraufführung sprechen (PDF)" %}}
 
-Aufführung: Die Physiker. Aufführung durch Studenten der German Division der Abteilung für Moderne Sprachen der Texas State Universität. \[Watch on [YouTube](https://www.youtube.com/watch?v=P16Rznzm2ac).\]
+Aufführung: Die Physiker. Aufführung durch Studenten der German Division der Abteilung für Moderne Sprachen der Texas State Universität. \[Watch on {{% resource_link "4eeee328-6f36-40f5-886e-4f50ce705409" "YouTube" %}}.\]
 
 {{% resource_link fbb1f69c-6991-fec6-6241-ee9c8c6fcc18 "Diskursverbindungen und Diskurpartikel (PDF)" %}}
 
@@ -485,7 +483,7 @@ Aufführung: Die Physiker. Aufführung durch Studenten der German Division der A
 
 {{% resource_link 9f9b5ede-51fa-6fb6-1e1e-aaae5e8cdd85 "Duerrenmatt-Zitate und Kritik in \"Die Physiker\" (PDF)" %}}
 
-TextundBuehne. "[Friedrich Dürrenmatt über das Theater (schweizerdeutsch)](https://www.youtube.com/watch?v=ij_cFJjJwIg)." November 29, 2012. YouTube.
+TextundBuehne. "{{% resource_link "e1e1e21c-b6eb-4425-98cc-eb5262b33c6c" "Friedrich Dürrenmatt über das Theater (schweizerdeutsch)" %}}." November 29, 2012. YouTube.
 
 
 {{< tdclose >}}
@@ -546,11 +544,11 @@ Figurenanalyse
 
 ### Film
 
-[_Happy Birthday, Türke!_](http://www.imdb.com/title/tt0102000). Directed by Doris Dorrie. Color, 109 min. 1992. (Deutschland)
+{{% resource_link "86b85090-413b-40e7-9a4e-b11b12a878d3" "_Happy Birthday, Türke!_" %}}. Directed by Doris Dorrie. Color, 109 min. 1992. (Deutschland)
 
 {{% resource_link e963b9e3-d8d9-9b27-ceda-c13de8b74d01 "Rezensionen zum Buch (PDF)" %}}
 
-[Vokabeln zum Text](https://quizlet.com/_6uhxg)
+{{% resource_link "eb0b6849-6d36-4c39-9457-b6d3bd88eeaa" "Vokabeln zum Text" %}}
 
 {{% resource_link 23237c5e-779d-927d-54c5-b910bb913e77 "Recherchen zum Autor und zum Genre (PDF)" %}}
 
@@ -627,7 +625,7 @@ Referat 5
 
 ### Film
 
-[_Das Parfum: Die Geschichte eines Mörders_](http://www.cinema.de/film/das-parfum-die-geschichte-eines-moerders,1308090.html). Directed by Tom Tykwer. Color, 147 min. 2006.
+{{% resource_link "08e60cc4-8666-49e0-b20b-5cb1db18b0d1" "_Das Parfum: Die Geschichte eines Mörders_" %}}. Directed by Tom Tykwer. Color, 147 min. 2006.
 
 
 

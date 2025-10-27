@@ -4,8 +4,6 @@ description: This resource contains the information regarding charakteranalyse.
 file: /courses/21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014/d3dcae6f3db3a0c8de05f4840b5baf6c_MIT21G_412F14_Wo7-9_Die.pdf
 file_size: 200425
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

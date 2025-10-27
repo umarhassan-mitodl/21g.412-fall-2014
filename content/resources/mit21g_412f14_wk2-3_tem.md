@@ -4,8 +4,6 @@ description: This resource contains the information regarding temporale diskursv
 file: /courses/21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014/4b4aa803e3cb8787890118f53363428b_MIT21G_412F14_Wk2-3_Tem.pdf
 file_size: 381600
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

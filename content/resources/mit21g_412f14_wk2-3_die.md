@@ -5,8 +5,6 @@ description: 'This resource contains the information regarding definition: die n
 file: /courses/21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014/95c0d8103ff94488674b37847bb88a43_MIT21G_412F14_Wk2-3_DIE.pdf
 file_size: 439900
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

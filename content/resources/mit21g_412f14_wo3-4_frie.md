@@ -5,8 +5,6 @@ description: "This resource contains the information regarding friedrichs entwic
 file: /courses/21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014/80a9277e13929676600e9c74cf130df1_MIT21G_412F14_Wo3-4_Frie.pdf
 file_size: 217570
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
